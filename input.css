@@ -223,3 +223,31 @@ margin-left: 550px;
 margin-top: 20px;
 
 }
+.pp{
+    width: 297px;
+    height: 238px;
+    background-color: gainsboro;
+}
+.aa{
+    padding-top: 40px;
+    padding-left: 30px;
+}
+.ss{
+    font-size: 25px;
+    font-weight: 900;
+    width: 181px;
+    padding-left: 30px;
+    margin-top: 10px;
+}
+.dd{
+    margin-left: 30px;
+    font-size: 18px;
+    margin-top: 10px;
+    color: rgb(100, 100, 100);
+}
+.ff{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+    margin-left: 140px;
+}
