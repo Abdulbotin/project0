@@ -163,4 +163,36 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
+}
+.m{
+    display: flex;
+    align-items: center;
+     margin-top: 20px;
+    
+}
+.qq{
+    font-size: 25px;
+    font-weight: 900;
+    
+}
+.ww{
+    width: 301px;
+}
+.rr{
+    font-size: 44px;
+    width: 625px;
+    font-weight: 900;
+    margin-top: 20px;
+}
+.ee{
+    width: 377px;
+    margin-top: 20px;
+}
+.tt{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 10%;
+     margin-top: 100px;
 }
